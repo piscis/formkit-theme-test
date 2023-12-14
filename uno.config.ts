@@ -1,6 +1,5 @@
 // uno.config.ts
 import { defineConfig, presetAttributify, presetIcons, presetUno, presetWebFonts, presetWind,  transformerDirectives } from 'unocss'
-import fs from 'node:fs/promises'
 
 export default defineConfig({
   content: {
