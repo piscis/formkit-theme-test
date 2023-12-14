@@ -1,8 +1,8 @@
 /** TAILWIND CSS */
-import './index.css'
+// import './index.css'
 
 /** UNOCSS */
-// import 'virtual:uno.css'
+import 'virtual:uno.css'
 
 import { createApp } from 'vue'
 import App from './App.vue'
